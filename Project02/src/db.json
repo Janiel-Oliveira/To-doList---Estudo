@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Fazer atividades pendentes",
+      "vencimento": "24 de Dezembro"
+    },
+    {
+      "id": 2,
+      "nome": "Estudar para a prova de Grafos",
+      "vencimento": "21 de Dezembro"
+    }
+  ]
+}
